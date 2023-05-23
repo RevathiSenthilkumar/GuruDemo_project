@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T21:23:49 PDT" name="Default suite" finished-at="2023-05-22T21:24:11 PDT" duration-ms="21869">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T21:23:49 PDT" name="Default test" finished-at="2023-05-22T21:24:11 PDT" duration-ms="21869">
+      <class name="gurudemo.testcases.GuruDemo_HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:23:49 PDT" name="setUp" finished-at="2023-05-22T21:23:54 PDT" duration-ms="5771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="varify()[pri:0, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:23:54 PDT" name="varify" finished-at="2023-05-22T21:23:55 PDT" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varify -->
+        <test-method signature="userPassWordTest(java.lang.String,java.lang.String)[pri:1, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:23:56 PDT" name="userPassWordTest" data-provider="testdata" finished-at="2023-05-22T21:23:57 PDT" duration-ms="1052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mythili]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mythily@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPassWordTest -->
+        <test-method signature="userPassWordTest(java.lang.String,java.lang.String)[pri:1, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:23:57 PDT" name="userPassWordTest" data-provider="testdata" finished-at="2023-05-22T21:23:58 PDT" duration-ms="1080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mary@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPassWordTest -->
+        <test-method signature="userPassWordTest(java.lang.String,java.lang.String)[pri:1, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:23:58 PDT" name="userPassWordTest" data-provider="testdata" finished-at="2023-05-22T21:24:08 PDT" duration-ms="10569" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[meena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[meena@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPassWordTest -->
+        <test-method signature="userPassWordTest(java.lang.String,java.lang.String)[pri:1, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:24:08 PDT" name="userPassWordTest" data-provider="testdata" finished-at="2023-05-22T21:24:09 PDT" duration-ms="931" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[malini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[malini@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPassWordTest -->
+        <test-method signature="userPassWordTest(java.lang.String,java.lang.String)[pri:1, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:24:09 PDT" name="userPassWordTest" data-provider="testdata" finished-at="2023-05-22T21:24:10 PDT" duration-ms="1081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[priya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[priya@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPassWordTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:24:10 PDT" name="tearDown" finished-at="2023-05-22T21:24:10 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:gurudemo.testcases.GuruDemo_HomePageTest@74d1dc36]" started-at="2023-05-22T21:24:10 PDT" name="tearDown1" finished-at="2023-05-22T21:24:11 PDT" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+      </class> <!-- gurudemo.testcases.GuruDemo_HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
